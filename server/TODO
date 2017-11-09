@@ -1,0 +1,15 @@
+TODO
+
+Server Side Installations Pending 
+=================================
+
+CORS Packeage 
+composer require barryvdh/laravel-cors
+
+EXCEL Pacheage
+composer require maatwebsite/excel
+
+
+Client Side Installations Pending 
+=================================
+None
