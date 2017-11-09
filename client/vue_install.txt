@@ -1,0 +1,9 @@
+instalar vue-cli
+
+$ npm install -g vue-cli
+$ vue init webpack my-project
+$ cd my-project
+$ npm install
+$ npm run dev
+
+o copiar el package.json y luego ejecutar npm update
