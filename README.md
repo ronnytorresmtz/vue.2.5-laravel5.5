@@ -5,5 +5,5 @@ This template was created based on the vue-cli and vue init webpack packages.
 Additional packages installed Vuex, VueRouter, Cripto-JS.
 
 ## Server Directory
-This template includes Laravel5.5.
-Additional package installed Passport.
+... This template includes Laravel5.5.
+... Additional package installed Passport.
