@@ -1,0 +1,10 @@
+TODO
+
+Instalation pending 
+=========================
+
+CORS Packeage
+composer require barryvdh/laravel-cors
+
+EXCEL Pacheage
+composer require maatwebsite/excel
