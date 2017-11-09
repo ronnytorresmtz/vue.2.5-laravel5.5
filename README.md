@@ -1,2 +1,9 @@
-# vue2.5-laravel5.5
-template with vue2.5-laravel5.5
+# Vue 2.5 Laravel 5.5
+
+##Client Directory
+This template was created based on the vue-cli and vue init webpack packages
+Additional packages installed Vuex, VueRouter, Cripto-JS
+
+##Server Directory
+This template include Laravel5.5
+Additional package installed Passport
