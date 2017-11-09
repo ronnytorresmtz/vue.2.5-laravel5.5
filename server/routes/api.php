@@ -13,6 +13,14 @@ use Illuminate\Http\Request;
 |
 */
 
-Route::middleware('auth:api')->get('/user', function (Request $request) {
-    return $request->user();
-});
+// Route::middleware('auth:api')->get('/user', function (Request $request) {
+//     return $request->user();
+// });
+
+$allFiles = File::allFiles(base_path() . '\App\MyCode\Routes');
+
+foreach ($allFiles as $file) {
+   
+    require_once ($file->getPathname());
+
+}
