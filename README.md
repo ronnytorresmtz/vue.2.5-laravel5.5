@@ -6,7 +6,7 @@ This template was created based on the vue-cli and vue init webpack packages. (g
 Additional packages installed 
 - Vuex
 - VueRouter
-- Cripto-JS.
+- Cripto-JS
 
 ## Server Directory
 This template includes Laravel5.5.
