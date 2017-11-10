@@ -3,7 +3,10 @@
 ## Client Directory
 This template was created based on the vue-cli and vue init webpack packages. (git repository: vuejs-templates/webpack)
 
-Additional packages installed Vuex, VueRouter, Cripto-JS.
+Additional packages installed 
+- Vuex
+- VueRouter
+- Cripto-JS.
 
 ## Server Directory
 This template includes Laravel5.5.
