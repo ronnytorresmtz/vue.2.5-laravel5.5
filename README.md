@@ -4,15 +4,15 @@
 This template was created based on the vue-cli and vue init webpack packages. (git repository: vuejs-templates/webpack)
 
 Additional packages installed 
-- Vuex
-- VueRouter
-- Cripto-JS
+- vuex
+- vueRouter
+- cripto-JS
 
 ## Server Directory
 This template includes Laravel5.5.
 
 Additional package installed 
-- laravel passport
+- laravel/passport
 - barryvdh/laravel-cors
 - maatwebsite/excel
 
