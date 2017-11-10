@@ -37,7 +37,8 @@ Additional package installed
 7. Run composer update
 8. Run npm run dev in the server directory
 9. Run php artisan in the client directory
-
+10. Open the browser an type: http://localhost:8080/
+11. A Vue Welcome Page should be displayed.
 
 Note: The laravel passport package is installed but it is not implemented.
 
