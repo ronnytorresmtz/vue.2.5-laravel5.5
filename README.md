@@ -1,7 +1,7 @@
 # Vue 2.5 Laravel 5.5
 
 ## Client Directory
-This template was created based on the vue-cli and vue init webpack packages. (git repository: vuejs-templates/webpack)
+This template was created based on the vue-cli and vue init webpack packages. (vuejs-templates/webpack)
 
 Additional packages installed 
 - vuex
