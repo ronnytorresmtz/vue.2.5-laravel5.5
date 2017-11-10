@@ -11,11 +11,7 @@ This template includes Laravel5.5.
 Additional package installed Passport.
 
 
-<<<<<<< HEAD
 >Some directories were added to organize the code
-=======
->Add some directories to organize the code
->>>>>>> 3a9bf7e4c5689e454fbd78d85f74941d5ddc8a19
 1. An App/MyCode directroy was created which includes Models, Repository, Routes, Service Directories to organize the code application. Each one has an examples files so the AppServiceProvider was modified with some bindings.
 
 2. The Laravel Routes directory was changed to be redirected to the MyCode/Routes. the api.php file now has some new code to generate the routes based on the App/MyCode/Routes directory.
