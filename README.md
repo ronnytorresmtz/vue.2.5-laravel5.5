@@ -39,6 +39,6 @@ Additional package installed
 9. Run php artisan in the client directory
 
 
-Note: The laravel passport package is installed but is not implement.
+Note: The laravel passport package is installed but it is not implemented.
 
 
