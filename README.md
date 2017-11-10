@@ -8,7 +8,10 @@ Additional packages installed Vuex, VueRouter, Cripto-JS.
 ## Server Directory
 This template includes Laravel5.5.
 
-Additional package installed Passport.
+Additional package installed 
+- laravel passport
+- barryvdh/laravel-cors
+- maatwebsite/excel
 
 
 >Some directories were added to organize the code
