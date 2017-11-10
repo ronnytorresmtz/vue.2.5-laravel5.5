@@ -1,5 +1,5 @@
 # Vue 2.5 Laravel 5.5
-
+This repository contains a boilerplate/template with Vue 2.5 and Laravel 5.5 and other packages to have the start environment to code the client and server with CORS protection. Also includes the laravel passport package to start the implementing API security via Json Web Tokens.
 ## Client Directory
 This template was created based on the vue-cli and vue init webpack packages. (vuejs-templates/webpack)
 
@@ -31,9 +31,10 @@ Additional package installed
 - DB_DATABASE 
 - DB_USERNAME 
 - DB_PASSWORD
-4. Run npm install
-5. Run composer update
-6. Run npm run dev in the server directory
-7. Run php artisan in the client directory
+4. Setup the cors.php in the app/config directory.
+5. Run npm install
+6. Run composer update
+7. Run npm run dev in the server directory
+8. Run php artisan in the client directory
 
 
