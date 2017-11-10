@@ -10,7 +10,7 @@ This template includes Laravel5.5.
 
 Additional package installed Passport.
 
-
+<hr>
 Some Code organization in the Server Side
 1. An App/MyCode directroy was created which includes Models, Repository, Routes, Service Directories to organize the code application. Each one has an examples files so the AppServiceProvider was modified with some bindings.
 
