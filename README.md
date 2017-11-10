@@ -23,3 +23,17 @@ Additional package installed
 2. The Laravel Routes directory was changed to be redirected to the MyCode/Routes. the api.php file now has some new code to generate the routes based on the App/MyCode/Routes directory.
 
 3. The App/MyCode was added to the Composer.Json file in the section autoload.
+
+## Installation instructions
+1. Copy the file .env.example to .env
+2. Crete a Database
+3. Set these variables in the file .env
+- DB_DATABASE 
+- DB_USERNAME 
+- DB_PASSWORD
+4. Run npm install
+5. Run composer update
+6. Run npm run dev in the server directory
+7. Run php artisan in the client directory
+
+
