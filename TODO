@@ -4,10 +4,10 @@ Server Side Installations Pending
 =================================
 
 CORS Packeage 
-composer require barryvdh/laravel-cors
+barryvdh/laravel-cors --> Seguir la instrucciones para terminar la instalacion
 
 EXCEL Pacheage
-composer require maatwebsite/excel
+composer require maatwebsite/excel --> Seguir la instrucciones para terminar la instalacion
 
 
 Client Side Installations Pending 
