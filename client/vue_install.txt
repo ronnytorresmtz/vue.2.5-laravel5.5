@@ -6,4 +6,4 @@ $ cd my-project
 $ npm install
 $ npm run dev
 
-o copiar el package.json y luego ejecutar npm update
+
