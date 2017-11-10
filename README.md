@@ -24,17 +24,21 @@ Additional package installed
 
 3. The App/MyCode was added to the Composer.Json file in the section autoload.
 
-## Installation instructions
-1. Copy the file .env.example to .env
-2. Crete a Database
-3. Set these variables in the file .env
+## Start
+1. Clone this repository to a local directory
+2. Copy the file .env.example to .env
+3. Crete a Database in MySQL
+4. Set these variables in the file .env
 - DB_DATABASE 
 - DB_USERNAME 
 - DB_PASSWORD
-4. Setup the cors.php in the app/config directory.
-5. Run npm install
-6. Run composer update
-7. Run npm run dev in the server directory
-8. Run php artisan in the client directory
+5. Setup the cors.php in the app/config directory.
+6. Run npm install
+7. Run composer update
+8. Run npm run dev in the server directory
+9. Run php artisan in the client directory
+
+
+Note: The laravel passport package is installed but is not implement.
 
 
