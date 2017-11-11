@@ -32,13 +32,14 @@ Additional package installed
 - DB_DATABASE 
 - DB_USERNAME 
 - DB_PASSWORD
-5. Setup the cors.php in the app/config directory
-6. Run npm install
-7. Run composer update
-8. Run npm run dev in the server directory
-9. Run php artisan serve in the client directory
-10. Open the browser an type: http://localhost:8080/
-11. A Vue Welcome Page should be displayed
+5. Setup the cors.php in the app/config directory}
+6. Change the Readme.md file with your project information
+7. Run npm install
+8. Run composer update
+9. Run npm run dev in the server directory
+10. Run php artisan serve in the client directory
+11. Open the browser an type: http://localhost:8080/
+12. A Vue Welcome Page should be displayed
 
 Note: The laravel passport package is installed but it is not implemented.
 
