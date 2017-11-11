@@ -28,17 +28,17 @@ Additional package installed
 1. Clone this repository to a local directory
 2. Copy the file .env.example to .env
 3. Crete a Database in MySQL
-4. Set these variables in the file .env
+4. Set these variables in the file .env:
 - DB_DATABASE 
 - DB_USERNAME 
 - DB_PASSWORD
-5. Setup the cors.php in the app/config directory.
+5. Setup the cors.php in the app/config directory
 6. Run npm install
 7. Run composer update
 8. Run npm run dev in the server directory
 9. Run php artisan serve in the client directory
 10. Open the browser an type: http://localhost:8080/
-11. A Vue Welcome Page should be displayed.
+11. A Vue Welcome Page should be displayed
 
 Note: The laravel passport package is installed but it is not implemented.
 
