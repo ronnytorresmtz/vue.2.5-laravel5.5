@@ -27,7 +27,7 @@ Additional package installed
 ## Start
 1. Clone this repository to a local directory
 2. Copy the file .env.example to .env
-3. Crete a Database in MySQL
+3. Create a Database in MySQL
 4. Set these variables in the file .env:
 - DB_DATABASE 
 - DB_USERNAME 
