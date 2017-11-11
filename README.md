@@ -33,7 +33,7 @@ Additional package installed
 - DB_USERNAME 
 - DB_PASSWORD
 5. Setup the cors.php in the app/config directory}
-6. Change the Readme.md file with your project information
+6. Update the Readme.md file content
 7. Run npm install
 8. Run composer update
 9. Run npm run dev in the server directory
