@@ -1,5 +1,5 @@
-# Vue 2.5 Laravel 5.5
-This repository contains a boilerplate/template with Vue 2.5 and Laravel 5.5 and other packages to have the start environment to code the client and server with CORS protection. Also includes the laravel passport package to start the implementing API security via Json Web Tokens.
+# Vue 2.5 Laravel 5.4
+This repository contains a boilerplate/template with Vue 2.5 and Laravel 5.4 and other packages to have the start environment to code the client and server with CORS protection. Also includes the laravel passport package to start the implementing API security via Json Web Tokens.
 ## Client Directory
 This template was created based on the vue-cli and vue init webpack packages. (vuejs-templates/webpack)
 
@@ -9,7 +9,7 @@ Additional packages installed
 - cripto-JS
 
 ## Server Directory
-This template includes Laravel5.5.
+This template includes Laravel 5.4.
 
 Additional package installed 
 - laravel/passport
