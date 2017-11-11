@@ -36,7 +36,7 @@ Additional package installed
 6. Run npm install
 7. Run composer update
 8. Run npm run dev in the server directory
-9. Run php artisan in the client directory
+9. Run php artisan serve in the client directory
 10. Open the browser an type: http://localhost:8080/
 11. A Vue Welcome Page should be displayed.
 
