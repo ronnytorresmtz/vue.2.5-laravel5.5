@@ -5,10 +5,10 @@ This template was created based on the vue-cli and vue init webpack packages. (v
 
 Additional packages installed 
 - vuex
-- vueRouter
+- vuerouter
 - axios
 - jquery
-- cripto-JS
+- cripto-js
 
 ## Server Directory
 This template includes Laravel 5.4.
