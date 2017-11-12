@@ -6,6 +6,8 @@ This template was created based on the vue-cli and vue init webpack packages. (v
 Additional packages installed 
 - vuex
 - vueRouter
+- axios
+- jquery
 - cripto-JS
 
 ## Server Directory
