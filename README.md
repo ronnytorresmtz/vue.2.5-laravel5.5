@@ -42,7 +42,11 @@ Additional package installed
 10. Run php artisan serve in the client directory
 11. Open the browser an type: http://localhost:8080/
 12. A Vue Welcome Page should be displayed
+13. Run php aristan migrate:refresh --seed
+14. Run php aristan passport:install
+15. Run php artisan key:generate
+16. Run php artisan config:clear
 
-Note: The laravel passport package is installed but it is not implemented.
+Now the laravel app has passport package is installed with its personal access client and password grand client in the databas. You should implement some http request to obtain the access token an store it your localStorage. Then you need to send the access token store in the header request with the prefix Bearer.
 
 
